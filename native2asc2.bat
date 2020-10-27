@@ -1,0 +1,1 @@
+native2ascii -encoding SJIS msg.properties msg_ja.properties
